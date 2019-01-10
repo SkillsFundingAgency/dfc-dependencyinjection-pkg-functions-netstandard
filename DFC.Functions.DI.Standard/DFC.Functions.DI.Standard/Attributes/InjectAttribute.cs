@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.Azure.WebJobs.Description;
 
-namespace DFC.Functions.DI.Core.Attributes
+namespace DFC.Functions.DI.Standard.Attributes
 {
     [Binding]
     [AttributeUsage(AttributeTargets.Parameter, AllowMultiple = false)]

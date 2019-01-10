@@ -4,7 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Threading.Tasks;
 
-namespace DFC.Functions.DI.Core
+namespace DFC.Functions.DI.Standard
 {
     internal class InjectBinding : IBinding
     {

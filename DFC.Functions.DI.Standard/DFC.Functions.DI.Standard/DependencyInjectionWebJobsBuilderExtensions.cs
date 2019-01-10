@@ -4,7 +4,7 @@ using Microsoft.Azure.WebJobs.Host;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 
-namespace DFC.Functions.DI.Core
+namespace DFC.Functions.DI.Standard
 {
     public static class DependencyInjectionWebJobsBuilderExtensions
     {

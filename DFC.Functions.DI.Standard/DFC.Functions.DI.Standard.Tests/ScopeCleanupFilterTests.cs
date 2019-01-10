@@ -7,7 +7,7 @@ using Microsoft.Extensions.Logging;
 using Moq;
 using Xunit;
 
-namespace DFC.Functions.DI.Core.Tests
+namespace DFC.Functions.DI.Standard.Tests
 {
     public class ScopeCleanupFilterTests
     {

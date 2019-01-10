@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Concurrent;
 
-namespace DFC.Functions.DI.Core
+namespace DFC.Functions.DI.Standard
 {
     internal static class ServiceScopeDictionary
     {

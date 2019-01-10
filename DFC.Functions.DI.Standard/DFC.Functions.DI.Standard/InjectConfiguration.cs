@@ -1,7 +1,7 @@
-﻿using DFC.Functions.DI.Core.Attributes;
+﻿using DFC.Functions.DI.Standard.Attributes;
 using Microsoft.Azure.WebJobs.Host.Config;
 
-namespace DFC.Functions.DI.Core
+namespace DFC.Functions.DI.Standard
 {
     internal class InjectConfiguration : IExtensionConfigProvider
     {

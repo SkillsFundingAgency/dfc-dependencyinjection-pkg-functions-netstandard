@@ -2,7 +2,7 @@
 using System;
 using System.Threading.Tasks;
 
-namespace DFC.Functions.DI.Core
+namespace DFC.Functions.DI.Standard
 {
     internal class InjectBindingProvider : IInjectBindingProvider
     {

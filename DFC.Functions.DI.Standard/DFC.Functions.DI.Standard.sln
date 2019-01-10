@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFC.Functions.DI.Core", "DFC.Functions.DI.Core\DFC.Functions.DI.Core.csproj", "{73EB778B-AB32-4AFB-A0F7-F06A34F12542}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFC.Functions.DI.Standard", "DFC.Functions.DI.Standard\DFC.Functions.DI.Standard.csproj", "{73EB778B-AB32-4AFB-A0F7-F06A34F12542}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFC.Functions.DI.Core.Tests", "DFC.Functions.DI.Core.Tests\DFC.Functions.DI.Core.Tests.csproj", "{E6BCDBCE-AE96-4E0F-9627-0F80AF5486EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFC.Functions.DI.Standard.Tests", "DFC.Functions.DI.Standard.Tests\DFC.Functions.DI.Standard.Tests.csproj", "{E6BCDBCE-AE96-4E0F-9627-0F80AF5486EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

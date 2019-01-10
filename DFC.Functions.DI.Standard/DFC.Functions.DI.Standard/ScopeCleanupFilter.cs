@@ -3,7 +3,7 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace DFC.Functions.DI.Core
+namespace DFC.Functions.DI.Standard
 {
     public class ScopeCleanupFilter : IFunctionInvocationFilter, IFunctionExceptionFilter
     {
